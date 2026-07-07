@@ -87,13 +87,6 @@ engine are not part of this release. The interfaces here (`StudentSession`
 in, `DiagnosisReport` out) are stable extension points — build your own
 layers on top.
 
-## Contributing
-
-Issues and PRs welcome. Good first contributions: additional exam types and
-skill taxonomies, translations of rule text, and more combo patterns
-(with a rationale for each — every rule in this engine should be defensible
-to a teacher).
-
 ## License
 
 MIT — see `LICENSE`.
