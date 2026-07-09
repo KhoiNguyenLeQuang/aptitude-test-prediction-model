@@ -6,9 +6,6 @@ and study-habit scores — and it returns a prioritized, evidence-backed
 revision plan: which skill types are critically weak, which warning patterns
 are firing, and what to work on first.
 
-No cloud services, no API keys, no GPU. Pure Python, runs anywhere in
-milliseconds.
-
 ## What's included
 
 | File | Purpose |
@@ -90,3 +87,11 @@ layers on top.
 ## License
 
 MIT — see `LICENSE`.
+
+## Credits
+
+This project exists thanks to:
+
+- **Le Truong Hai Tran** ([tranletruonghai@gmail.com](mailto:tranletruonghai@gmail.com)) — tree model selection & score prediction
+- **Gia Vinh Nguyen** ([giavinh11012009@gmail.com](mailto:giavinh11012009@gmail.com)) — psychology indicators & rule-based engine
+- **Bao Chau Ngo** ([ngobaochau1312@gmail.com](mailto:ngobaochau1312@gmail.com)) — aptitude test design & rule-based engine
