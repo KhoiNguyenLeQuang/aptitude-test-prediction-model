@@ -92,7 +92,7 @@ MIT — see `LICENSE`.
 
 This project exists thanks to:
 
-- **Le Truong Hai Tran** (tranletruonghai@gmail.com) — tree model selection & score prediction
+- **Le Truong Hai Tran** (tranletruonghai@gmail.com) — tree model selection & score prediction co-build
 - **Gia Vinh Nguyen** (giavinh11012009@gmail.com) — psychology indicators & rule-based engine
 - **Bao Chau Ngo** (ngobaochau1312@gmail.com) — aptitude test indicators & rule-based engine
-- **Tien Thanh Le** (thor.le1234@gmail.com) — aptitude test indicators & rule-based engine
+- **Tien Thanh Le** (thor.le1234@gmail.com) — aptitude test indicators & rule-based engine, tree model selection & score prediction co-build
